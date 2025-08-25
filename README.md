@@ -1,0 +1,5 @@
+<img width="600" height="500" alt="confusion_matrix" src="https://github.com/user-attachments/assets/4817b88e-3a0a-4bf8-8f9f-284f7134f70a" />
+<img width="800" height="500" alt="loss_curve" src="https://github.com/user-attachments/assets/7868c3ed-8526-4069-ab4a-8eae1a1cba58" />
+<img width="900" height="500" alt="model_comparison" src="https://github.com/user-attachments/assets/e292278e-bf2b-4cbe-83f3-dafe89763031" />
+
+This study has established a novel approach to financial forecasting by combining signature theory with deep neural networks. The Deep Signature Model is a robust tool for time series modeling, grounded in mathematics and effective in practice. Although there are still challenges, such as high computational requirements and difficulties in interpretation, future advancements could tackle these issues by investigating hybrid models, techniques for explainability, and optimizing signature computation. The transition from research to practical application is certainly achievable.
